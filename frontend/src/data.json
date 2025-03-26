@@ -1,0 +1,139 @@
+
+[
+    {
+      "id": 1,
+      "name": "Chanel No. 5",
+      "brand": "Chanel",
+      "description": "A timeless classic fragrance with floral and woody notes, perfect for any occasion.",
+      "price": 130.00,
+      "volume": "100ml",
+      "image": "../assets/images/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Dior Sauvage",
+      "brand": "Dior",
+      "description": "A bold and invigorating fragrance with spicy and woody notes, perfect for modern men.",
+      "price": 95.00,
+      "volume": "100ml",
+      "image": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tom Ford Black Orchid",
+      "brand": "Tom Ford",
+      "description": "A luxurious and sensual fragrance with rich floral and oriental notes.",
+      "price": 145.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jo Malone London Peony & Blush Suede",
+      "brand": "Jo Malone",
+      "description": "A delicate and elegant fragrance featuring peony and blush suede, perfect for light, everyday wear.",
+      "price": 90.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Yves Saint Laurent Black Opium",
+      "brand": "Yves Saint Laurent",
+      "description": "A warm and seductive fragrance with coffee, vanilla, and floral notes, perfect for evening wear.",
+      "price": 125.00,
+      "volume": "90ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Giorgio Armani Si",
+      "brand": "Giorgio Armani",
+      "description": "A sophisticated and elegant fragrance with notes of blackcurrant, vanilla, and patchouli.",
+      "price": 110.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Viktor & Rolf Flowerbomb",
+      "brand": "Viktor & Rolf",
+      "description": "A rich floral fragrance that blends jasmine, orange flower, and patchouli.",
+      "price": 135.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Hermes Terre d'Hermes",
+      "brand": "Hermes",
+      "description": "A woody, earthy fragrance with notes of orange, pepper, and oakmoss.",
+      "price": 120.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Dolce & Gabbana Light Blue",
+      "brand": "Dolce & Gabbana",
+      "description": "A fresh and fruity fragrance with notes of Sicilian lemon, apple, and cedarwood.",
+      "price": 80.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Marc Jacobs Daisy",
+      "brand": "Marc Jacobs",
+      "description": "A fresh and feminine fragrance with notes of wild strawberry, violet leaves, and jasmine.",
+      "price": 95.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Chloé Eau de Parfum",
+      "brand": "Chloé",
+      "description": "A modern floral fragrance with notes of peony, rose, and cedarwood.",
+      "price": 115.00,
+      "volume": "75ml",
+      "image":"/images/3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Prada Candy",
+      "brand": "Prada",
+      "description": "A sweet and sensual fragrance with notes of caramel, vanilla, and musk.",
+      "price": 100.00,
+      "volume": "80ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Givenchy L'Interdit",
+      "brand": "Givenchy",
+      "description": "A bold and rebellious fragrance with notes of tuberose, orange blossom, and patchouli.",
+      "price": 130.00,
+      "volume": "90ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bvlgari Omnia Crystalline",
+      "brand": "Bvlgari",
+      "description": "A fresh, fruity fragrance with notes of bamboo, pear, and lotus flower.",
+      "price": 85.00,
+      "volume": "65ml",
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Acqua di Parma Colonia",
+      "brand": "Acqua di Parma",
+      "description": "A refined and elegant fragrance with citrus, lavender, and vetiver notes.",
+      "price": 160.00,
+      "volume": "100ml",
+      "image": "/images/3.jpg"
+    }
+  ]
+  
