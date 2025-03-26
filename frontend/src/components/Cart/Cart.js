@@ -43,7 +43,7 @@ const Cart = () => {
                   <tr key={item._id}>
                     <td>
                       <img
-                        src={`http://localhost:5000/uploads/${item.image}`}
+                        src="./uploads/item.image"
                         alt={item.name}
                         style={{ width: '50px', height: '50px', objectFit: 'cover' }}
                       />{' '}
