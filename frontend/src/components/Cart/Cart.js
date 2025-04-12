@@ -2,6 +2,7 @@ import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { removeItemFromCart,addItemToCart,clearCart } from '../reduxStore/cartSlice'; 
 
+
 const Cart = () => {
   const cartItems = useSelector((state) => state.cart.items);
   const dispatch = useDispatch();
@@ -42,8 +43,8 @@ const Cart = () => {
                 {cartItems.map((item) => (
                   <tr key={item._id}>
                     <td>
-                      <img
-                        src={`http://localhost:5000/uploads/${item.image}`}
+                      <img 
+                        src= "./uploads/item.image"
                         alt={item.name}
                         style={{ width: '50px', height: '50px', objectFit: 'cover' }}
                       />{' '}
